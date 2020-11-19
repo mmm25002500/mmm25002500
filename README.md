@@ -1,8 +1,14 @@
 ### Hi there 👋 I am Xia-Tershi
 ## Welcome to my Github Page! I am a Developer&Engineer!
 
-- 🔭 I’m currently working on asdad
+- 🔭 I’m a student in high school
+- 🌱 I’m learning Linux Server , Python ..etc
+- 👯 I'm looking for people who have the same habits as me
+- ⚡ Coding is not for the money,but for the dream
+- ❤️ Eager to learn new knowledge,reach the realm of love
 
+### 🤝My Profile:
+<img src="https://img1.pnghut.com/9/23/23/r4pegVbPuX/icon-design-button-black-youtube-play.jpg"><a href="https://www.youtube.com/channel/UCPdpFDFOp3sPbZhRkaQVaQA"></a></img>
 <!--
 **mmm25002500/mmm25002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
