@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Xia-Tershi
-## Welcome to my Github Page!
+## Welcome to my Github Page! I am a Developer&Engineer!
+
+- 🔭 I’m currently working on asdad
 
 <!--
 **mmm25002500/mmm25002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
