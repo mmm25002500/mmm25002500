@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Xia-Tershi 嗨你好 我是夏特稀
-## Welcome to my Github Page! I am a Developer&Engineer! 歡迎來到我的Github葉面 我是一個開發者&工程師
+## Welcome to my Github Page! I am a Developer&Engineer! 歡迎來到我的Github頁面 我是一個開發者&工程師
 
 - 🔭 I’m a student in Vocational High School 我現在正在讀高職
 - 🌱 I'm learning Linux Server , Python ..etc 我正在學習Linux伺服器, Python 等等的
