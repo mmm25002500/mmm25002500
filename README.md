@@ -17,6 +17,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/OOjs_UI_icon_language-ltr.svg/1200px-OOjs_UI_icon_language-ltr.svg.png" width="50px"/> Most Used Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm25002500)](https://github.com/mmm25002500/github-readme-stats)
+
 
 </p>
 <!--
