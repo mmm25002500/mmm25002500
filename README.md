@@ -12,6 +12,12 @@
 
 ### <img src="https://icon-library.com/images/system-icon-png/system-icon-png-28.jpg" width="22px"/> O System used 使用的作業系統:
 <a target="_blank" title="Arch Linux" href="https://zh.wikipedia.org/zh-tw/Arch_Linux"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/768px-Archlinux-icon-crystal-64.svg.png" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" title="Windows10" href="https://zh.wikipedia.org/zh-tw/Microsoft_Windows"><img src="https://icons-for-free.com/iconfiles/png/512/desktop+microsoft+os+screen+technology+windows+icon-1320192780138264654.png" width="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" title="Kali-Linux" href="https://zh.wikipedia.org/zh-tw/Kali_Linux"><img src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png" width="50px"/></a>
+
+## 📈 Github Status Github狀態
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)
+
+
 </p>
 <!--
 **mmm25002500/mmm25002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
