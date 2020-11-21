@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student in Vocational High School&being a Engineer and Developer 我現在正在讀高職且我正在當工程師和開發者
 - 🌱 I'm learning Linux Server , Python ..etc 我正在學習Linux伺服器, Python 等等的
-- 👯 I'm looking for people who have the same habits as me 我正在尋找有跟我相同興趣的人
+- 👯 I'm looking for people who have the same interest as me 我正在尋找有跟我相同興趣的人
 - ⚡ Coding is not for the money,but for the dream 寫程式不是為了錢，而是為了夢想
 - ❤️ I have Eager to/Deep love for learning new knowledge 我渴望/熱愛學習新知識
 - ▶️ I make CyberSecurity&InfoSecurity videos on [Youtube](https://www.youtube.com/c/%E5%A4%8F%E7%89%B9%E7%A8%80/videos)
