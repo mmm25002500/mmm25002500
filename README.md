@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Xia-Tershi 嗨你好 我是夏特稀
 ## Welcome to my Github Page! I am a Developer&Engineer!<br>歡迎來到我的Github頁面 我是一個開發者&工程師
 
-- 🔭 I’m a student in Vocational High School&being a Engineer and Developer <div  style="text-align:center">| 我現在正在讀高職且我正在當工程師和開發者</div>
+- 🔭 I’m a student in Vocational High School&being a Engineer and Developer <div  style="text-align:right">| 我現在正在讀高職且我正在當工程師和開發者</div>
 - 🌱 I'm learning Linux Server , Python ..etc &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 我正在學習Linux伺服器, Python 等等的
 - 👯 I'm looking for people who have the same interest as me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 我正在尋找有跟我相同興趣的人
 - ⚡ Coding is not for the money,but for the dream &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 寫程式不是為了錢，而是為了夢想
