@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Visitor Count | 訪客總數
+![Visitor Count](https://profile-counter.glitch.me/mmm25002500/count.svg)
