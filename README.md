@@ -49,11 +49,13 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 </a>
 
 ## 📈 Github Status | Github 狀態
-![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)
+<!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)-->
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmm25002500&theme=dracula)
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmm25002500&theme=dracula)
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmm25002500&theme=dracula)
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmm25002500&theme=dracula)
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmm25002500&theme=dracula)
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&count_private=true)-->
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/OOjs_UI_icon_language-ltr.svg/1200px-OOjs_UI_icon_language-ltr.svg.png" width="20px"/> Most Used Language | 使用最多的語言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm25002500)](https://github.com/mmm25002500/github-readme-stats)
 
 <!--
 **mmm25002500/mmm25002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
