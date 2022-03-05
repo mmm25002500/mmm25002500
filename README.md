@@ -52,12 +52,12 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)-->
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmm25002500&theme=dracula)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmm25002500&theme=dracula)
-<<<<<<< HEAD
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmm25002500&theme=dracula)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmm25002500&theme=dracula)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmm25002500&theme=dracula)<br>
 <img width="25%" src="animate/uto-sunglasses.gif" />
 <img width="25%" src="animate/amatsuka-uto.gif" />
+<img width="25%" src="animate/uto-swinging.gif" />
 
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&count_private=true)-->
 
