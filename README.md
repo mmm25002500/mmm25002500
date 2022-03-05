@@ -52,9 +52,9 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)-->
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmm25002500&theme=dracula)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmm25002500&theme=dracula)
-![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmm25002500&theme=dracula)
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmm25002500&theme=dracula)<img width="19.5%" src="animate/amatsuka-uto.gif" />
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmm25002500&theme=dracula)
-![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmm25002500&theme=dracula)
+![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmm25002500&theme=dracula)<img width="21%" src="animate/uto-sunglasses.gif" />
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&count_private=true)-->
 
 <!--
@@ -75,4 +75,3 @@ Here are some ideas to get you started:
 ## Visitor Count | 訪客總數
 <!--![Visitor Count](https://profile-counter.glitch.me/mmm25002500/count.svg)-->
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
-![amatsuka-uto](animate/amatsuka-uto.gif)
