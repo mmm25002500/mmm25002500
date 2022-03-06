@@ -1,6 +1,8 @@
 # Hi there 👋 Wellcome
 I am TershiXia, a student study in a Vocational High School in Taiwan.
 
+[My Goal](goal/)
+
 ###### tags:  `CyberSecurity` `Student` `Personal Info`
 
 ## My Personal Info
