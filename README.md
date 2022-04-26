@@ -55,6 +55,7 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 
 ## 📈 Github Status | Github 狀態
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)-->
+![TershiXia's Github Card](https://github-profile-trophy.vercel.app/?username=mmm25002500&theme=darkhub&no-frame=true&row=1&column=7)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmm25002500&theme=dracula)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmm25002500&theme=dracula)
 ![TershiXia's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmm25002500&theme=dracula)
