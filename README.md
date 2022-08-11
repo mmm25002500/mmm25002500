@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 點擊下面可以留言喔
+<! --## 點擊下面可以留言喔
 [![](https://chat.getloli.com/room/@mmm25002500-chat/svg?width=600&height=280&limit=20&theme=light&title=mmm25002500-chat&fontSize=13)](https://chat.getloli.com/room/@mmm25002500-chat?title=mmm25002500%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
 
-![chat](https://chat.getloli.com/room/@mmm25002500-chat?title=mmm25002500%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)
+![chat](https://chat.getloli.com/room/@mmm25002500-chat?title=mmm25002500%E7%9A%84Github%E7%95%99%E8%A8%80%E6%9D%BF)-->
 
 ## Visitor Count | 訪客總數
 <!--![Visitor Count](https://profile-counter.glitch.me/mmm25002500/count.svg)-->
