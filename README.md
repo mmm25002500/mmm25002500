@@ -120,3 +120,6 @@ Here are some ideas to get you started:
 ## Visitor Count | 訪客總數
 <!--![Visitor Count](https://profile-counter.glitch.me/mmm25002500/count.svg)-->
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
