@@ -122,9 +122,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-326-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-331-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
 
@@ -145,14 +145,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.78% 
-HTML                     2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   26.0% 
-CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-Java                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
+Python                   4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   38.95% 
+HTML                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   22.24% 
+CSS                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
 
 🔥 Editors: 
-VS Code                  8 hrs 9 mins        █████████████████████████   100.0%
+VS Code                  11 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -169,5 +169,5 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-09-29 12:58:38 UTC
+ Last Updated on 2022-09-30 01:26:10 UTC
 <!--END_SECTION:waka-->
