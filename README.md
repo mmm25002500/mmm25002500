@@ -122,11 +122,39 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+🌆 Daytime    91 commits     ███████░░░░░░░░░░░░░░░░░░   28.98% 
+🌃 Evening    142 commits    ███████████░░░░░░░░░░░░░░   45.22% 
+🌙 Night      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+EJS                      5 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.54% 
+Vue.js                   4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   23.01% 
+JavaScript               2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Python                   2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
+
+🔥 Editors: 
+VS Code                  20 hrs 24 mins      █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Python** 
 
@@ -141,5 +169,5 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-10-25 01:14:08 UTC
+ Last Updated on 2022-10-25 01:19:34 UTC
 <!--END_SECTION:waka-->
