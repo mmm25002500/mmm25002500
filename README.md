@@ -122,19 +122,19 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-🌆 Daytime    96 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌃 Evening    155 commits    ███████████░░░░░░░░░░░░░░   46.13% 
-🌙 Night      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.42%
+🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+🌆 Daytime    96 commits     ███████░░░░░░░░░░░░░░░░░░   28.4% 
+🌃 Evening    157 commits    ███████████░░░░░░░░░░░░░░   46.45% 
+🌙 Night      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36%
 
 ```
 
@@ -169,5 +169,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-11-13 01:30:25 UTC
+ Last Updated on 2022-11-13 12:23:10 UTC
 <!--END_SECTION:waka-->
