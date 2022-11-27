@@ -122,9 +122,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-228%20Thousand%20lines%20of%20code-blue)
 
@@ -145,15 +145,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44% 
-JSON                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-JavaScript               3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
-Markdown                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-Python                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
+Vue.js                   3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Markdown                 3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+JavaScript               3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
+Python                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
+HTML                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.91%
 
 🔥 Editors: 
-VS Code                  16 hrs 4 mins       ███████████████░░░░░░░░░░   63.37% 
-Vim                      9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.63%
+VS Code                  14 hrs 2 mins       ███████████████░░░░░░░░░░   60.7% 
+Vim                      9 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   39.3%
 
 ```
 
@@ -170,5 +170,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-11-26 12:46:09 UTC
+ Last Updated on 2022-11-27 00:56:29 UTC
 <!--END_SECTION:waka-->
