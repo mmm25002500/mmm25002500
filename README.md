@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -170,5 +170,5 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-12-04 00:53:02 UTC
+ Last Updated on 2022-12-04 00:58:15 UTC
 <!--END_SECTION:waka-->
