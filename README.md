@@ -122,9 +122,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286%20Thousand%20lines%20of%20code-blue)
 
@@ -145,15 +145,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 6 mins        ████████████████░░░░░░░░░   66.6% 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
+Vue.js                   2 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.54% 
+JavaScript               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   32.27% 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       ████████████████████████░   98.75% 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+VS Code                  5 hrs 5 mins        ████████████████████████░   98.87% 
+Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 ```
 
@@ -170,5 +170,5 @@ Vue                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-01-22 12:44:54 UTC
+ Last Updated on 2023-01-23 00:46:59 UTC
 <!--END_SECTION:waka-->
