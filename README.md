@@ -14,7 +14,7 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 - ▶️ I make CyberSecurity & InfoSecurity videos on [Youtube](https://www.youtube.com/c/%E5%A4%8F%E7%89%B9%E7%A8%80/).
 
 ## 🤝My Profile | 我的個人資訊:
-<a target="_blank" title="夏特稀YouTube" href="https://www.youtube.com/channel/UCPdpFDFOp3sPbZhRkaQVaQA?view_as=subscriber">
+<a target="_blank" title="夏特稀YouTube" href="https://www.youtube.com/@TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" title="夏特稀Facebook" href="https://fb.com/TershiXia">
@@ -23,17 +23,17 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 <a target="_blank" title="夏特稀Twitter" href="https://twitter.com/TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
 </a>
-<a target="_blank" title="夏特稀個人網站" href="https://tershi.com">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E5%A4%8F%E7%89%B9%E7%A8%80%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99&color=00ffff&logoColor=FFFFFF&label=" />
-</a>
-<a target="_blank" title="夏特稀部落格" href="https://blog.tershi.com">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E5%A4%8F%E7%89%B9%E7%A8%80%E9%83%A8%E8%90%BD%E6%A0%BC&color=00ffff&logoColor=FFFFFF&label=" />
-</a>
 <a target="_blank" title="夏特稀Github" href="https://github.com/TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" title="夏特稀Telegram" href="https://t.me/TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
+</a>
+<a target="_blank" title="夏特稀個人網站" href="https://tershi.com">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E5%A4%8F%E7%89%B9%E7%A8%80%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99&color=00ffff&logoColor=FFFFFF&label=" />
+</a>
+<a target="_blank" title="夏特稀部落格" href="https://blog.tershi.com">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E5%A4%8F%E7%89%B9%E7%A8%80%E9%83%A8%E8%90%BD%E6%A0%BC&color=00ffff&logoColor=FFFFFF&label=" />
 </a>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4185/4185714.png" width="22px" />Learning Status | 學習狀態:
@@ -41,8 +41,8 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 <a target="_blank" title="Vue.JS" href="https://zh.wikipedia.org/wiki/Vue.js">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" />
 </a>
-<a target="_blank" title="Python" href="https://zh.wikipedia.org/wiki/Python">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
+<a target="_blank" title="React" href="https://zh.wikipedia.org/wiki/react">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
 </a>
 <a target="_blank" title="Flutter" href="https://zh.wikipedia.org/wiki/flutter">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=" />
@@ -50,14 +50,23 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 <a target="_blank" title="Dart" href="https://zh.wikipedia.org/wiki/dart">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=" />
 </a>
+<a target="_blank" title="C" href="https://zh.wikipedia.org/zh-tw/C%E8%AF%AD%E8%A8%80">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
+</a>
 <a target="_blank" title="C++" href="https://zh.wikipedia.org/wiki/c++">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" />
+</a>
+<a target="_blank" title="Java" href="https://zh.wikipedia.org/wiki/Java">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=" />
+</a>
+<a target="_blank" title="Python" href="https://zh.wikipedia.org/wiki/Python">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" title="JavaScript" href="https://zh.wikipedia.org/wiki/javascript">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
 </a>
-<a target="_blank" title="React" href="https://zh.wikipedia.org/wiki/react">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />
+<a target="_blank" title="TypeScript" href="https://zh.wikipedia.org/wiki/typescript">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" title="Adobe Premiere Pro" href="https://zh.wikipedia.org/zh-tw/Adobe_Premiere_Pro">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=" />
@@ -86,7 +95,9 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 <a target="_blank" title="KaliLinux" href="https://zh.wikipedia.org/wiki/Kali_Linux">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=" />
 </a>
-
+<a target="_blank" title="MacOS" href="https://zh.wikipedia.org/wiki/MacOS">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=" />
+</a>
 
 ## 📈 Github Status | Github 狀態
 <!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=mmm25002500&show_icons=true&theme=radical&hide_border=true)-->
