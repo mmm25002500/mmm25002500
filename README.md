@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
 
@@ -155,9 +155,9 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-EJS                      2 hrs 43 mins       ███████████████████░░░░░░   75.30 % 
+EJS                      2 hrs 43 mins       ███████████████████░░░░░░   75.32 % 
 Python                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
@@ -179,5 +179,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-03-23 13:07:25 UTC
+ Last Updated on 2023-03-24 00:45:59 UTC
 <!--END_SECTION:waka-->
