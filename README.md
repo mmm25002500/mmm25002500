@@ -1,9 +1,7 @@
 # Hi there 👋 Wellcome
 I am TershiXia, a student study in a Vocational High School in Taiwan.
 
-[My Goal](goal/)
-
-###### tags:  `CyberSecurity` `Student` `Personal Info`
+###### tags:  `Full Stack Dev` `Student` `Personal Info`
 
 ## My Personal Info
 - 🔭 University Student & being a Engineer and Developer.
@@ -14,6 +12,9 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 - ▶️ I make CyberSecurity & InfoSecurity videos on [Youtube](https://www.youtube.com/c/%E5%A4%8F%E7%89%B9%E7%A8%80/).
 
 ## 🤝My Profile | 我的個人資訊:
+<a target="_blank" title="夏特稀LinkTree" href="https://lntr.tershi.com">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linktree&color=222222&logo=Linktree&logoColor=43E55E&label=" />
+</a>
 <a target="_blank" title="夏特稀YouTube" href="https://www.youtube.com/@TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
 </a>
@@ -25,6 +26,10 @@ I am TershiXia, a student study in a Vocational High School in Taiwan.
 </a>
 <a target="_blank" title="夏特稀Github" href="https://github.com/TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
+</a>
+
+<a target="_blank" title="夏特稀Discord" href="https://discordapp.com/users/508266434091155467">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" title="夏特稀Telegram" href="https://t.me/TershiXia">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
