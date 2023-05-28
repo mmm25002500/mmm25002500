@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -160,12 +160,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 49 mins        ███████████████░░░░░░░░░░   59.17 % 
-Other                    1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.33 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   1 hr 49 mins        ████████████░░░░░░░░░░░░░   48.10 % 
+Other                    1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.78 % 
+EJS                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -181,5 +183,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-05-27 13:01:53 UTC
+ Last Updated on 2023-05-28 00:51:03 UTC
 <!--END_SECTION:waka-->
