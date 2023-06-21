@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.0%20million%20lines%20of%20code-blue)
 
@@ -160,14 +160,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 hr 25 mins        █████████████░░░░░░░░░░░░   51.69 % 
-Python                   50 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               1 hr 25 mins        ██████████████████░░░░░░░   70.14 % 
+Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Git Config               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -183,5 +183,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-19 12:50:52 UTC
+ Last Updated on 2023-06-21 00:50:16 UTC
 <!--END_SECTION:waka-->
