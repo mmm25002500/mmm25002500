@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -160,10 +160,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   100.00 % 
+Groovy                   1 hr                ████████░░░░░░░░░░░░░░░░░   31.83 % 
+TypeScript               42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +183,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-06-24 13:04:24 UTC
+ Last Updated on 2023-06-25 01:00:01 UTC
 <!--END_SECTION:waka-->
