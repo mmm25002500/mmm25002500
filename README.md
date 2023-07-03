@@ -138,9 +138,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.4%20million%20lines%20of%20code-blue)
 
@@ -160,15 +160,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               4 hrs 4 mins        ████████████████░░░░░░░░░   64.33 % 
-EJS                      1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Cocoa                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               5 hrs 36 mins       █████████████░░░░░░░░░░░░   51.83 % 
+EJS                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 9 mins        ████████████████████████░   97.17 % 
-Vim                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+VS Code                  10 hrs 37 mins      █████████████████████████   98.26 % 
+Vim                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 **I Mostly Code in Python** 
@@ -184,5 +184,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-07-02 12:19:06 UTC
+ Last Updated on 2023-07-03 00:57:26 UTC
 <!--END_SECTION:waka-->
