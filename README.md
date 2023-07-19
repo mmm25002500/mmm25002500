@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -160,13 +160,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   49 mins             ██████████████████░░░░░░░   71.55 % 
-TypeScript               19 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Python                   49 mins             ██████████████████░░░░░░░   71.09 % 
+TypeScript               19 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Vim                      47 mins             █████████████████░░░░░░░░   67.74 % 
-VS Code                  22 mins             ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Vim                      47 mins             █████████████████░░░░░░░░   67.30 % 
+VS Code                  22 mins             ████████░░░░░░░░░░░░░░░░░   32.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -182,5 +182,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-07-18 12:19:29 UTC
+ Last Updated on 2023-07-19 01:31:25 UTC
 <!--END_SECTION:waka-->
