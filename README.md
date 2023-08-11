@@ -160,10 +160,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +179,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-08-10 00:54:39 UTC
+ Last Updated on 2023-08-11 12:16:34 UTC
 <!--END_SECTION:waka-->
