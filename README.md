@@ -160,10 +160,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+EJS                      0 secs              █████████████████░░░░░░░░   68.52 % 
+YAML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+CSS                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +181,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-08-11 12:19:55 UTC
+ Last Updated on 2023-08-12 00:36:47 UTC
 <!--END_SECTION:waka-->
