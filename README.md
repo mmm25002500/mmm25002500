@@ -160,11 +160,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     2 mins              ██████████████░░░░░░░░░░░   56.10 % 
-Java Properties          2 mins              ███████████░░░░░░░░░░░░░░   43.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -180,5 +179,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-10-12 13:10:48 UTC
+ Last Updated on 2023-10-13 00:40:59 UTC
 <!--END_SECTION:waka-->
