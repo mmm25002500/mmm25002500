@@ -160,10 +160,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ██████████████░░░░░░░░░░░   54.97 % 
+Text                     2 mins              ███████████░░░░░░░░░░░░░░   43.92 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +181,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-11-05 00:42:57 UTC
+ Last Updated on 2023-11-05 00:45:24 UTC
 <!--END_SECTION:waka-->
