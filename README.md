@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -183,5 +183,5 @@ JavaScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-11-10 13:08:13 UTC
+ Last Updated on 2023-11-11 00:40:19 UTC
 <!--END_SECTION:waka-->
