@@ -138,9 +138,34 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.4%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌆 Daytime                466 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌃 Evening                804 commits         ███████████░░░░░░░░░░░░░░   42.58 % 
+🌙 Night                  391 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               0 secs              ██████████████████░░░░░░░   71.02 % 
+Python                   0 secs              ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -155,5 +180,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-12-01 01:35:48 UTC
+ Last Updated on 2023-12-01 12:18:23 UTC
 <!--END_SECTION:waka-->
