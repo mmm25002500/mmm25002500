@@ -142,15 +142,15 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-🌆 Daytime                149 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-🌃 Evening                304 commits         █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌙 Night                  235 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌞 Morning                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+🌆 Daytime                474 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+🌃 Evening                796 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
+🌙 Night                  393 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 ```
 
 
@@ -160,10 +160,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +179,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023-12-27 13:06:46 UTC
+ Last Updated on 2023-12-28 00:39:57 UTC
 <!--END_SECTION:waka-->
