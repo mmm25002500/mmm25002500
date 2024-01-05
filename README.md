@@ -138,19 +138,19 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                135 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-🌆 Daytime                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-🌃 Evening                256 commits         █████████░░░░░░░░░░░░░░░░   34.78 % 
-🌙 Night                  224 commits         ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌞 Morning                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+🌆 Daytime                474 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+🌃 Evening                796 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
+🌙 Night                  393 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 ```
 
 
@@ -160,11 +160,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    0 secs              ████████████████████████░   94.52 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Solidity                 8 mins              ████████████████████████░   96.53 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -180,5 +181,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-04 13:06:15 UTC
+ Last Updated on 2024-01-05 00:42:12 UTC
 <!--END_SECTION:waka-->
