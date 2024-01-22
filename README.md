@@ -142,15 +142,15 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-🌆 Daytime                458 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌃 Evening                680 commits         ██████████░░░░░░░░░░░░░░░   40.43 % 
-🌙 Night                  333 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+🌞 Morning                132 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🌆 Daytime                119 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌃 Evening                184 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌙 Night                  181 commits         ███████░░░░░░░░░░░░░░░░░░   29.38 % 
 ```
 
 
@@ -183,5 +183,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-22 13:06:36 UTC
+ Last Updated on 2024-01-22 13:07:34 UTC
 <!--END_SECTION:waka-->
