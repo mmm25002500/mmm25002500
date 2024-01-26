@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -180,5 +180,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-26 00:43:32 UTC
+ Last Updated on 2024-01-26 00:45:34 UTC
 <!--END_SECTION:waka-->
