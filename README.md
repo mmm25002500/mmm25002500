@@ -138,19 +138,19 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                78 commits          ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-🌆 Daytime                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-🌃 Evening                84 commits          ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-🌙 Night                  101 commits         ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌞 Morning                212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+🌆 Daytime                433 commits         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+🌃 Evening                611 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌙 Night                  329 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
 ```
 
 
@@ -160,10 +160,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               7 mins              █████████████████████████   100.00 % 
+TypeScript               1 hr 20 mins        █████████████████████████   99.23 % 
+MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +181,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-04-26 13:05:23 UTC
+ Last Updated on 2024-04-27 00:40:16 UTC
 <!--END_SECTION:waka-->
