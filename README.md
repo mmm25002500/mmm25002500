@@ -138,19 +138,19 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-🌆 Daytime                340 commits         ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-🌃 Evening                565 commits         ███████████░░░░░░░░░░░░░░   44.49 % 
-🌙 Night                  214 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+🌞 Morning                165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌆 Daytime                374 commits         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+🌃 Evening                596 commits         ███████████░░░░░░░░░░░░░░   42.82 % 
+🌙 Night                  257 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
 ```
 
 
@@ -160,10 +160,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               19 mins             █████████████████████████   100.00 % 
+TypeScript               55 mins             ███████████████████████░░   93.47 % 
+MDX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +183,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-06-27 13:07:05 UTC
+ Last Updated on 2024-06-28 00:44:06 UTC
 <!--END_SECTION:waka-->
