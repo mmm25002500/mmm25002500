@@ -138,19 +138,19 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+🌆 Daytime                373 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌃 Evening                577 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌙 Night                  282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 ```
 
 
@@ -160,10 +160,11 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               33 mins             ██████████████░░░░░░░░░░░   57.34 % 
+JSON                     25 mins             ███████████░░░░░░░░░░░░░░   42.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +180,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-07-21 13:04:12 UTC
+ Last Updated on 2024-07-22 00:46:53 UTC
 <!--END_SECTION:waka-->
