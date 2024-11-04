@@ -138,19 +138,17 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-🌆 Daytime                422 commits         ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-🌃 Evening                650 commits         ██████████░░░░░░░░░░░░░░░   40.68 % 
-🌙 Night                  351 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+🌞 Morning                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+🌆 Daytime                519 commits         ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌃 Evening                755 commits         ██████████░░░░░░░░░░░░░░░   38.82 % 
+🌙 Night                  435 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
 ```
 
 
@@ -160,10 +158,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 56 mins       █████████████████████░░░░   84.59 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +179,5 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2024-11-03 13:05:10 UTC
+ Last Updated on 2024-11-04 00:54:55 UTC
 <!--END_SECTION:waka-->
