@@ -1,6 +1,7 @@
 # Hi there 👋 Wellcome
 I am TershiXia, a student study in a Vocational High School in Taiwan.
 
+- 🚀 靈萌團隊 Cutespirit Team CEO＆Founder（Since 2021/07～2023/01）
 - 🚀 幣友科技 BITYO CEO＆Founder（Since 2023/01～NOW）
 - 🚀 逐日交易聯盟 Sunary CEO＆Founder（Since 2024/02～NOW）
 
