@@ -142,6 +142,8 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
@@ -181,5 +183,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-03-28 00:57:05 UTC
+ Last Updated on 2025-03-28 00:58:57 UTC
 <!--END_SECTION:waka-->
