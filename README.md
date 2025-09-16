@@ -164,10 +164,12 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 3 mins         █████████████████████░░░░   84.45 % 
+Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,5 +185,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-16 00:56:43 UTC
+ Last Updated on 2025-09-16 00:58:38 UTC
 <!--END_SECTION:waka-->
