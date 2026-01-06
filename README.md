@@ -164,11 +164,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   99.33 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -184,5 +183,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-01-06 16:01:47 UTC
+ Last Updated on 2026-01-06 16:03:48 UTC
 <!--END_SECTION:waka-->
