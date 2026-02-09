@@ -164,12 +164,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-SRecode Template         14 mins             █████████████████████████   99.20 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -185,5 +183,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-02-09 16:03:51 UTC
+ Last Updated on 2026-02-09 16:06:10 UTC
 <!--END_SECTION:waka-->
