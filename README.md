@@ -142,11 +142,37 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.26%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                859 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+🌃 Evening                1133 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌙 Night                  703 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               4 hrs 3 mins        ████████████████████░░░░░   79.70 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 5 mins        █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -161,5 +187,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-03-17 16:06:29 UTC
+ Last Updated on 2026-03-17 16:09:42 UTC
 <!--END_SECTION:waka-->
