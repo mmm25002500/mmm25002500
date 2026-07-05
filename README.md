@@ -164,13 +164,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               36 mins             ███████████████░░░░░░░░░░   59.70 % 
-Vue                      24 mins             ██████████░░░░░░░░░░░░░░░   39.35 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              52 mins             █████████████████████░░░░   85.38 % 
-VS Code                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -186,5 +183,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-05 16:03:21 UTC
+ Last Updated on 2026-07-05 16:05:54 UTC
 <!--END_SECTION:waka-->
