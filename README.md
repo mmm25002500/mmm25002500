@@ -148,28 +148,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.37%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                871 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-🌃 Evening                1145 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌙 Night                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -183,5 +161,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-06 16:03:55 UTC
+ Last Updated on 2026-07-06 16:06:16 UTC
 <!--END_SECTION:waka-->
