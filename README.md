@@ -146,15 +146,15 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.96%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  40 commits          ████████████████████░░░░░   80.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -164,29 +164,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        █████████████░░░░░░░░░░░░   51.84 % 
-Vue                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-CocoaPods                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TypeScript               1 hr 8 mins         ██████████████░░░░░░░░░░░   55.12 % 
+Vue                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+CocoaPods                13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+XML                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-Claude Code              2 hrs               ██████████████████████░░░   86.24 % 
-VS Code                  19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Claude Code              1 hr 45 mins        █████████████████████░░░░   84.58 % 
+VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 ```
-
-**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Java                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+
 ```
 
 
 
 
- Last Updated on 2026-07-12 16:00:19 UTC
+ Last Updated on 2026-07-12 16:00:46 UTC
 <!--END_SECTION:waka-->
