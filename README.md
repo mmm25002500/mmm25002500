@@ -146,15 +146,15 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.05%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                871 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-🌃 Evening                1145 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌙 Night                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌞 Morning                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+🌆 Daytime                485 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+🌃 Evening                593 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌙 Night                  610 commits         ████████░░░░░░░░░░░░░░░░░   31.41 % 
 ```
 
 
@@ -188,5 +188,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-12 01:53:52 UTC
+ Last Updated on 2026-07-12 01:55:17 UTC
 <!--END_SECTION:waka-->
