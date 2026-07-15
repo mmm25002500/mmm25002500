@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C015%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -164,10 +164,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
+INI                      2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.13 % 
+TypeScript               58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Kotlin                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Vue                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Claude Code              5 mins              █████████████████████████   100.00 % 
+Claude Code              4 hrs               ███████████████████████░░   93.33 % 
+VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,5 +188,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-15 16:44:32 UTC
+ Last Updated on 2026-07-15 16:46:57 UTC
 <!--END_SECTION:waka-->
