@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -164,15 +164,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ██████████████░░░░░░░░░░░   56.61 % 
-Other                    49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Kotlin                   43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Vue                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    32 mins             ████████████████████████░   95.52 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 15 mins       █████████████████████░░░░   83.54 % 
-VS Code                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Claude Code              32 mins             ████████████████████████░   95.52 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -188,5 +186,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-23 16:02:23 UTC
+ Last Updated on 2026-07-23 16:05:16 UTC
 <!--END_SECTION:waka-->
