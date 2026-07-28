@@ -166,15 +166,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    32 mins             ████████████████░░░░░░░░░   64.38 % 
+Other                    32 mins             ████████████████░░░░░░░░░   64.37 % 
 SRecode Template         14 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Claude Code              34 mins             █████████████████░░░░░░░░   68.54 % 
-VS Code                  15 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Claude Code              34 mins             █████████████████░░░░░░░░   68.53 % 
+VS Code                  15 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -188,14 +188,14 @@ VS Code                  15 mins             ████████░░░�
 
 💵 $4.06 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 20 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 580 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 670 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -212,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-28 16:02:42 UTC
+ Last Updated on 2026-07-28 16:05:36 UTC
 <!--END_SECTION:waka-->
