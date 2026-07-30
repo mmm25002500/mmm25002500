@@ -166,37 +166,33 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    32 mins             ████████████████░░░░░░░░░   64.37 % 
-SRecode Template         14 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              34 mins             █████████████████░░░░░░░░   68.53 % 
-VS Code                  15 mins             ████████░░░░░░░░░░░░░░░░░   31.47 % 
+VS Code                  12 mins             █████████████████████░░░░   85.74 % 
+Claude Code              2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (96.92%)
+⏱ AI Coding Time: 14 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 784,985 Input Tokens, 5,494 Output Tokens
+🔤 129,501 Input Tokens, 362 Output Tokens
 
-💵 $4.06 Estimated AI Cost This Week
+💵 $0.66 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 17 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 670 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -212,5 +208,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-30 16:03:05 UTC
+ Last Updated on 2026-07-30 16:05:56 UTC
 <!--END_SECTION:waka-->
