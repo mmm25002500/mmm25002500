@@ -150,6 +150,51 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.37%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌆 Daytime                871 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                1145 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
+🌙 Night                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+SRecode Template         14 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  12 mins             █████████████████████░░░░   85.74 % 
+Claude Code              2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 249,006 Input Tokens, 1,194 Output Tokens
+
+💵 $1.27 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 0 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +208,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-31 16:07:16 UTC
+ Last Updated on 2026-07-31 16:10:07 UTC
 <!--END_SECTION:waka-->
