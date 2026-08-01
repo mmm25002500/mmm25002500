@@ -180,11 +180,11 @@ Claude Code              2 mins              ████░░░░░░░�
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 249,006 Input Tokens, 1,194 Output Tokens
+🔤 129,501 Input Tokens, 362 Output Tokens
 
-💵 $1.27 Estimated AI Cost This Week
+💵 $0.66 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -208,5 +208,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-01 16:04:02 UTC
+ Last Updated on 2026-08-01 16:06:46 UTC
 <!--END_SECTION:waka-->
