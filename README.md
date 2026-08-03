@@ -166,17 +166,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-SRecode Template         14 mins             █████████████████████████   100.00 % 
+SRecode Template         14 mins             ██████████████████░░░░░░░   72.41 % 
+TypeScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   27.59 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████░░░░   85.74 % 
-Claude Code              2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+VS Code                  18 mins             ██████████████████████░░░   89.67 % 
+Claude Code              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (100.0%)
+⏱ AI Coding Time: 14 mins (72.41%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -208,5 +209,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-02 15:33:44 UTC
+ Last Updated on 2026-08-03 02:01:13 UTC
 <!--END_SECTION:waka-->
