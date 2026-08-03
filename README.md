@@ -142,9 +142,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -166,34 +166,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-SRecode Template         14 mins             ██████████████████░░░░░░░   72.41 % 
-TypeScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               25 mins             █████████████░░░░░░░░░░░░   51.00 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
-VS Code                  18 mins             ██████████████████████░░░   89.67 % 
-Claude Code              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Claude Code              33 mins             █████████████████░░░░░░░░   66.13 % 
+VS Code                  17 mins             ████████░░░░░░░░░░░░░░░░░   33.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (72.41%)
+⏱ AI Coding Time: 45 mins (89.05%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 465 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 129,501 Input Tokens, 362 Output Tokens
+🔤 7,915,397 Input Tokens, 38,973 Output Tokens
 
-💵 $0.66 Estimated AI Cost This Week
+💵 $40.55 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 0 AI Prompts
+🧠 1 AI Sessions, 13 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     508 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 228 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -209,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-03 16:04:55 UTC
+ Last Updated on 2026-08-03 16:07:34 UTC
 <!--END_SECTION:waka-->
