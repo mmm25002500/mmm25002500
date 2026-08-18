@@ -166,16 +166,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 3 mins        ██████████████████████░░░   89.81 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 50 mins       █████████████████████░░░░   84.88 % 
+VS Code                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 11 mins (92.67%)
+
+✍️ 3,748 lines written by AI, 27 lines written by hand (99.28% AI-written)
+
+🔤 1,300,444 Input Tokens, 173,606 Output Tokens
+
+💵 $73.12 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 28 AI Prompts
+
+Opus                     3,874 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.28% of written lines came from AI
+📝 Concise Prompter — average 237 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
+🚀 High AI Trust — 2.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-17 13:31:29 UTC
+ Last Updated on 2026-08-18 00:45:43 UTC
 <!--END_SECTION:waka-->
