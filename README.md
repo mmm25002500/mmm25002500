@@ -166,39 +166,40 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               6 hrs 6 mins        ████████████████░░░░░░░░░   64.65 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
+Markdown                 2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Kotlin                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 37 mins       ████████████████████░░░░░   80.54 % 
-VS Code                  1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Claude Code              8 hrs 17 mins       █████████████████████░░░░   85.08 % 
+VS Code                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 22 mins (88.56%)
+⏱ AI Coding Time: 9 hrs 14 mins (94.76%)
 
-✍️ 6,355 lines written by AI, 160 lines written by hand (97.54% AI-written)
+✍️ 10,182 lines written by AI, 20 lines written by hand (99.8% AI-written)
 
-🔤 1,859,952 Input Tokens, 461,265 Output Tokens
+🔤 2,684,879 Input Tokens, 547,146 Output Tokens
 
-💵 $67.20 Estimated AI Cost This Week
+💵 $80.24 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 127 AI Prompts
+🧠 12 AI Sessions, 115 AI Prompts
 
-Opus                     5,019 lines         ██████████████████░░░░░░░   71.90 % 
-Sonnet                   1,962 lines         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Opus                     8,936 lines         ████████████████████░░░░░   82.00 % 
+Sonnet                   1,962 lines         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.54% of written lines came from AI
-📄 Detailed Prompter — average 742 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 4.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📄 Detailed Prompter — average 541 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -214,5 +215,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-26 15:00:51 UTC
+ Last Updated on 2026-08-27 06:00:31 UTC
 <!--END_SECTION:waka-->
