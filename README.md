@@ -150,6 +150,59 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.37%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌆 Daytime                871 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                1145 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
+🌙 Night                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               8 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.92 % 
+Markdown                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Java                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Kotlin                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 28 mins      ███████████████████████░░   90.51 % 
+VS Code                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 38 mins (96.91%)
+
+✍️ 25,501 lines written by AI, 193 lines written by hand (99.25% AI-written)
+
+🔤 7,804,743 Input Tokens, 1,663,402 Output Tokens
+
+💵 $339.83 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 170 AI Prompts
+
+Opus                     24,674 lines        ███████████████████████░░   92.37 % 
+Sonnet                   1,962 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Fable                    77 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.25% of written lines came from AI
+📝 Concise Prompter — average 448 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +216,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-27 16:06:15 UTC
+ Last Updated on 2026-08-27 16:09:10 UTC
 <!--END_SECTION:waka-->
