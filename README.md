@@ -150,6 +150,57 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.37%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+🌆 Daytime                875 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+🌃 Evening                1147 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
+🌙 Night                  769 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Markdown                 5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Other                    5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Java                     4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Bash                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+
+🔥 Editors: 
+Claude Code              25 hrs 43 mins      ████████████████████░░░░░   79.26 % 
+VS Code                  6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 hrs 1 min (89.44%)
+
+✍️ 21,626 lines written by AI, 386 lines written by hand (98.25% AI-written)
+
+🔤 15,947,293 Input Tokens, 2,103,821 Output Tokens
+
+💵 $520.76 Estimated AI Cost This Week
+
+🧠 28 AI Sessions, 450 AI Prompts
+
+Opus                     21,858 lines        █████████████████████████   99.65 % 
+Fable                    77 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.25% of written lines came from AI
+📄 Detailed Prompter — average 960 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 1.95% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +214,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-02 16:06:43 UTC
+ Last Updated on 2026-09-02 16:09:26 UTC
 <!--END_SECTION:waka-->
