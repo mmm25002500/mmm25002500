@@ -148,15 +148,15 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+🌆 Daytime                795 commits         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+🌃 Evening                1016 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌙 Night                  783 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
 ```
 
 
@@ -201,12 +201,18 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 20.85% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Java                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 2026-09-15 03:19:58 UTC
+ Last Updated on 2026-09-15 03:22:15 UTC
 <!--END_SECTION:waka-->
