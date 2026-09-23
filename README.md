@@ -148,15 +148,15 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.73%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+🌆 Daytime                828 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+🌃 Evening                1023 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  783 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
 ```
 
 
@@ -199,12 +199,18 @@ Opus                     17,569 lines        ███████████�
 🚀 High AI Trust — 4.36% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   34.55 % 
+Java                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 2026-09-23 02:43:38 UTC
+ Last Updated on 2026-09-23 02:45:59 UTC
 <!--END_SECTION:waka-->
