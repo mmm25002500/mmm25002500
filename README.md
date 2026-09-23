@@ -150,6 +150,55 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.73%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+🌆 Daytime                828 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+🌃 Evening                1023 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  783 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+TypeScript               3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.61 % 
+Python                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Vue                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+
+🔥 Editors: 
+Claude Code              7 hrs 30 mins       ██████████████████████░░░   87.61 % 
+VS Code                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 48 mins (91.18%)
+
+✍️ 17,130 lines written by AI, 418 lines written by hand (97.62% AI-written)
+
+🔤 5,299,763 Input Tokens, 702,218 Output Tokens
+
+💵 $176.97 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 106 AI Prompts
+
+Opus                     17,764 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.62% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 4.3% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-23 16:05:45 UTC
+ Last Updated on 2026-09-23 16:08:37 UTC
 <!--END_SECTION:waka-->
