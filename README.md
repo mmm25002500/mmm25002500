@@ -166,36 +166,36 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Other                    34 mins             ████████░░░░░░░░░░░░░░░░░   30.15 % 
+JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Text                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-Claude Code              1 hr 58 mins        ████████████████████████░   96.25 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Claude Code              1 hr 50 mins        ████████████████████████░   95.98 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (96.97%)
+⏱ AI Coding Time: 1 hr 51 mins (96.74%)
 
-✍️ 2,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,751 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,427,208 Input Tokens, 261,662 Output Tokens
+🔤 875,465 Input Tokens, 241,811 Output Tokens
 
-💵 $59.18 Estimated AI Cost This Week
+💵 $38.33 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 18 AI Prompts
 
-Opus                     2,874 lines         █████████████████████████   100.00 % 
+Opus                     1,765 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 34 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 38 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -212,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-28 16:05:12 UTC
+ Last Updated on 2026-09-28 16:08:29 UTC
 <!--END_SECTION:waka-->
