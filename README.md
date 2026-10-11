@@ -166,21 +166,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Markdown                 2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-HTML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+TypeScript               3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Markdown                 2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+HTML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 51 mins       ████████████████████████░   94.05 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Claude Code              9 hrs 51 mins       ████████████████████████░   94.08 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 3 mins (95.86%)
+⏱ AI Coding Time: 10 hrs 3 mins (95.89%)
 
 ✍️ 8,840 lines written by AI, 573 lines written by hand (93.91% AI-written)
 
@@ -213,5 +213,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-11 16:03:24 UTC
+ Last Updated on 2026-10-11 16:05:50 UTC
 <!--END_SECTION:waka-->
