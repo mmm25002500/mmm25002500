@@ -142,9 +142,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://count.getloli.com/get/@TershiXia?theme=rule34)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -166,38 +166,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.05 % 
-TypeScript               1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-Python                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-HTML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Markdown                 2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.04 % 
+TypeScript               1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Python                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+HTML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 13 mins       █████████████████████░░░░   85.88 % 
-VS Code                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Claude Code              4 hrs 37 mins       ██████████████████████░░░   87.49 % 
+VS Code                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (89.54%)
+⏱ AI Coding Time: 4 hrs 46 mins (90.55%)
 
-✍️ 6,850 lines written by AI, 2 lines written by hand (99.97% AI-written)
+✍️ 17,900 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,702,420 Input Tokens, 373,845 Output Tokens
+🔤 3,425,291 Input Tokens, 643,472 Output Tokens
 
-💵 $57.33 Estimated AI Cost This Week
+💵 $62.76 Estimated AI Cost This Week
 
 🧠 3 AI Sessions, 57 AI Prompts
 
-Opus                     6,854 lines         █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     17,905 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 494 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,370 characters per prompt
 🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -213,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-19 16:02:25 UTC
+ Last Updated on 2026-10-19 16:05:06 UTC
 <!--END_SECTION:waka-->
