@@ -150,6 +150,56 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.64%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌆 Daytime                1104 commits        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+🌃 Evening                1221 commits        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌙 Night                  830 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Markdown                 5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+TypeScript               5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Dart                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 53 mins      ████████████████████████░   96.19 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 2 mins (97.09%)
+
+✍️ 32,895 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 12,241,423 Input Tokens, 1,376,891 Output Tokens
+
+💵 $204.93 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 234 AI Prompts
+
+Opus                     32,463 lines        ████████████████████████░   95.49 % 
+Fable                    1,533 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,178 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +213,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-21 16:06:48 UTC
+ Last Updated on 2026-10-21 16:09:47 UTC
 <!--END_SECTION:waka-->
