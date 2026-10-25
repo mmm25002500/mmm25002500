@@ -166,37 +166,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-TypeScript               4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Dart                     4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-PowerShell               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+TypeScript               4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Dart                     4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+PowerShell               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 51 mins      █████████████████████████   99.78 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              18 hrs 47 mins      █████████████████████████   99.77 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 53 mins (99.95%)
+⏱ AI Coding Time: 18 hrs 49 mins (99.95%)
 
-✍️ 34,514 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 34,422 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,667,413 Input Tokens, 1,360,018 Output Tokens
+🔤 13,418,710 Input Tokens, 1,246,868 Output Tokens
 
-💵 $223.21 Estimated AI Cost This Week
+💵 $215.98 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 255 AI Prompts
+🧠 10 AI Sessions, 245 AI Prompts
 
-Opus                     34,079 lines        ████████████████████████░   95.70 % 
-Fable                    1,533 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Opus                     33,987 lines        ████████████████████████░   95.68 % 
+Fable                    1,533 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,430 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
+📄 Detailed Prompter — average 1,428 characters per prompt
+🔁 Iterative Prompter — average 24 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
@@ -213,5 +213,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-25 16:03:13 UTC
+ Last Updated on 2026-10-25 16:05:46 UTC
 <!--END_SECTION:waka-->
