@@ -150,6 +150,55 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+🌆 Daytime                1126 commits        ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+🌃 Evening                1250 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌙 Night                  864 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Markdown                 6 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Dart                     5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+TypeScript               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Other                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+SQL                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+
+🔥 Editors: 
+Claude Code              23 hrs 51 mins      █████████████████████████   99.82 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 53 mins (99.96%)
+
+✍️ 32,024 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 14,040,019 Input Tokens, 2,087,426 Output Tokens
+
+💵 $256.07 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 362 AI Prompts
+
+Opus                     32,112 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,107 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +212,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-27 16:07:05 UTC
+ Last Updated on 2026-10-27 16:10:17 UTC
 <!--END_SECTION:waka-->
