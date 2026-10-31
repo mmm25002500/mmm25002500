@@ -166,35 +166,35 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Other                    1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Dart                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-SQL                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Other                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+TypeScript               1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Dart                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+SQL                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 35 mins       █████████████████████████   100.00 % 
+Claude Code              5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 35 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 45 mins (100.0%)
 
 ✍️ 14,032 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,883,962 Input Tokens, 1,137,452 Output Tokens
+🔤 4,392,201 Input Tokens, 1,074,182 Output Tokens
 
-💵 $100.03 Estimated AI Cost This Week
+💵 $94.91 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 126 AI Prompts
+🧠 7 AI Sessions, 111 AI Prompts
 
 Opus                     14,118 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,494 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📚 Verbose Prompter — average 3,778 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -211,5 +211,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-31 16:04:26 UTC
+ Last Updated on 2026-10-31 16:07:02 UTC
 <!--END_SECTION:waka-->
