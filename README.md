@@ -166,35 +166,35 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Other                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-TypeScript               1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Dart                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-SQL                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Markdown                 1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+TypeScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Dart                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+SQL                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 45 mins       █████████████████████████   100.00 % 
+Claude Code              4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 57 mins (100.0%)
 
-✍️ 14,032 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,631 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,392,201 Input Tokens, 1,074,182 Output Tokens
+🔤 3,259,129 Input Tokens, 726,142 Output Tokens
 
-💵 $94.91 Estimated AI Cost This Week
+💵 $69.56 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 111 AI Prompts
+🧠 6 AI Sessions, 104 AI Prompts
 
-Opus                     14,118 lines        █████████████████████████   100.00 % 
+Opus                     9,653 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,778 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 3,763 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -211,5 +211,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-01 16:03:02 UTC
+ Last Updated on 2026-11-01 16:05:31 UTC
 <!--END_SECTION:waka-->
